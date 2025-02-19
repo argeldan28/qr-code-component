@@ -34,8 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned to use flex property well in this simple challenge.
