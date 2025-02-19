@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learned to use flex property well in this simple challenge.
 
-
+Box-sizing includes the padding and border of the overall size of an element.
 
 ```html
 
